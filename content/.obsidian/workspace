@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "1a5f96af073ee035",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc1e1bfa65f1b070",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "games/pulut adventure.md",
+            "mode": "source"
+          }
+        },
+        "group": "9255556bf92370d5"
+      },
+      {
+        "id": "998da06f75f27c9d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "games/pulut adventure.md",
+            "mode": "preview"
+          }
+        },
+        "group": "9255556bf92370d5"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d8bad875421e597d",
+    "type": "split",
+    "children": [
+      {
+        "id": "193b577dd87b356f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9099841e69518fc1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "db0a3d2efa8c8ac2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c4a11b1a65734407",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb0a3b015a6b795c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79ada04dec38d409",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "games/pulut adventure.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "games/pulut adventure.md",
+    "games/pixel to the west.md",
+    "posts/technical/animatecss.md",
+    "posts/technical/command.md",
+    "posts/python worm.md",
+    "posts/Page.md",
+    "posts/my-first-post.md",
+    "games/pulut-adventure.md",
+    "games/Games List.md",
+    "games/Untitled.md"
+  ]
+}
