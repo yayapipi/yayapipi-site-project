@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "games/pulut adventure.md",
+            "file": "posts/Hugo一鍵發佈Bat.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "games/pulut adventure.md",
+            "file": "posts/Hugo一鍵發佈Bat.md",
             "mode": "preview"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "games/pulut adventure.md",
+                "file": "posts/Hugo一鍵發佈Bat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "posts/Hugo一鍵發佈Bat.md",
     "games/pulut adventure.md",
     "games/pixel to the west.md",
     "posts/technical/animatecss.md",
@@ -107,7 +108,6 @@
     "posts/Page.md",
     "posts/my-first-post.md",
     "games/pulut-adventure.md",
-    "games/Games List.md",
-    "games/Untitled.md"
+    "games/Games List.md"
   ]
 }
