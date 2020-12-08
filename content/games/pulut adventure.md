@@ -5,7 +5,8 @@ draft: false
 weight: 1
 aliases: ["/pulut"]
 tags: ["untags"]
-categories: ["uncategories"]
+game: ["steam"]
+categories: ["games"]
 author: "Yayapipi"
 # author: ["Me", "You"] # multiple authors
 showToc: false

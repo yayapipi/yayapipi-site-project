@@ -4,6 +4,8 @@ date: 2020-09-15T11:30:03+00:00
 weight: 1
 aliases: ["/first"]
 tags: ["first"]
+game: ["pc games"]
+categories: ["games"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: false

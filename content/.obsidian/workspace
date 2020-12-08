@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/Hugo一鍵發佈Bat.md",
+            "file": "posts/布丁.md",
             "mode": "source"
           }
         },
@@ -22,8 +22,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/Hugo一鍵發佈Bat.md",
-            "mode": "preview"
+            "file": "posts/布丁.md",
+            "mode": "source"
           }
         },
         "group": "9255556bf92370d5"
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Hugo一鍵發佈Bat.md",
+                "file": "posts/布丁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "posts/Hugo一鍵發佈Bat.md",
-    "games/pulut adventure.md",
+    "posts/布丁.md",
     "games/pixel to the west.md",
+    "games/pulut adventure.md",
+    "buding.jpg",
+    "logo.png",
+    "posts/Hugo一鍵發佈Bat.md",
     "posts/technical/animatecss.md",
     "posts/technical/command.md",
     "posts/python worm.md",
-    "posts/Page.md",
-    "posts/my-first-post.md",
-    "games/pulut-adventure.md",
-    "games/Games List.md"
+    "posts/Page.md"
   ]
 }
