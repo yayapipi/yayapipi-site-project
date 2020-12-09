@@ -11,6 +11,7 @@ showToc: false
 TocOpen: false
 draft: false
 hidemeta: false
+valuetype: "web"
 disableShare: false
 cover:
     image: "https://yayapipi.com/wp-content/uploads/2019/08/getdata.png"

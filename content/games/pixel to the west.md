@@ -13,6 +13,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 disableShare: false
+valuetype: "app"
 cover:
     image: "https://yayapipi.com/wp-content/uploads/2018/08/capsule_main.png"
     alt: "<alt text>"
@@ -24,7 +25,7 @@ comments: false
 Pixel To The West 是一款十分好玩的3D像素冒险游戏,剧情讲述的是孙悟空师徒在取经的路上忽然遇上了时空错乱,从2D的游戏世界闯进了3D的世界里去了,师父被莫名的妖怪捉走了，孙悟空的法力也被散落在世界的各地，在找回失去的法力的同时，孙悟空发现了这一次的时空错乱是一场计划已久的阴谋…
 
 #### 游戏特色：
-- <span style="color: #e6db74">探索世界</span>
+- <p style="color: #e6db74">探索世界</p>
 
 	你可以在游戏里探索不同的世界，并寻找魔法和宝藏
 - 七十二变

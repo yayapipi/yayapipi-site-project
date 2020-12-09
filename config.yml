@@ -55,7 +55,7 @@ params:
         imageUrl: 'logo.png'
         imageTitle: Yayapipi Logo
         buttons:
-            - name: 游戲
+            - name: 作品
               url: games
             - name: 程式
               url: programs

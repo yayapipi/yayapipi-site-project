@@ -13,6 +13,7 @@ showToc: false
 TocOpen: false
 hidemeta: false
 disableShare: true
+valuetype: "logo"
 cover:
     image: "https://yayapipi.com/wp-content/uploads/2018/08/header.jpg"
     alt: "<alt text>"
