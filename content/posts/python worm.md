@@ -5,7 +5,8 @@ weight: 1
 aliases: ["/first"]
 tags: ["first"]
 categories: ["new"]
-author: "Me"
+author: "Yayapipi"
+valuetype: "tech"
 # author: ["Me", "You"] # multiple authors
 showToc: false
 TocOpen: false

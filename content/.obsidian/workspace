@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "posts/布丁.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         },
         "group": "9255556bf92370d5"
       },
@@ -22,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/布丁.md",
+            "file": "projects/storys/那天夜裡,我把自己吃掉了.md",
             "mode": "source"
           }
         },
@@ -82,7 +79,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/布丁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +95,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "projects/storys/那天夜裡,我把自己吃掉了.md",
+    "projects/storys/布丁.md",
+    "projects/games/pulut adventure.md",
+    "projects/games/pixel to the west.md",
+    "posts/python worm.md",
+    "posts/Hugo一鍵發佈Bat.md",
+    "buding.jpg",
     "posts/布丁.md",
     "games/pixel to the west.md",
-    "games/pulut adventure.md",
-    "buding.jpg",
-    "logo.png",
-    "posts/Hugo一鍵發佈Bat.md",
-    "posts/technical/animatecss.md",
-    "posts/technical/command.md",
-    "posts/python worm.md",
-    "posts/Page.md"
+    "games/pulut adventure.md"
   ]
 }

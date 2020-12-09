@@ -7,6 +7,7 @@ weight: 1
 tags: ["untags"]
 categories: ["uncategories"]
 author: "Yayapipi"
+valuetype: "tech"
 # author: ["Me", "You"] # multiple authors
 showToc: false
 TocOpen: false

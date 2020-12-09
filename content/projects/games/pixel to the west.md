@@ -13,7 +13,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 disableShare: false
-valuetype: "app"
+valuetype: "game"
 cover:
     image: "https://yayapipi.com/wp-content/uploads/2018/08/capsule_main.png"
     alt: "<alt text>"
