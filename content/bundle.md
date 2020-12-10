@@ -1,6 +1,6 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "Bundle"
+date: 2020-12-09T23:18:22+08:00
 draft: false
 weight: 1
 # aliases: ["/link"] # 頁面跳轉

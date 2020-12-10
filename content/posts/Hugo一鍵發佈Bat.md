@@ -14,7 +14,7 @@ TocOpen: false
 hidemeta: false
 disableShare: true
 cover:
-    image: "<img link>"
+    image: "cover_dark.png"
     alt: "<alt text>"
     caption: "<text>"
     relative: false

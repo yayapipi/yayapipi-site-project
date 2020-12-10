@@ -1,6 +1,6 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "TerminalPreview"
+date: 2020-12-09T23:12:56+08:00
 draft: false
 weight: 1
 # aliases: ["/link"] # 頁面跳轉
@@ -18,7 +18,7 @@ meta:
     show_meta: true
     summary: ""
 cover:
-    image: "cover_dark.png"
+    image: "<img link>"
     alt: "<alt text>"
     caption: "<text>"
     relative: false

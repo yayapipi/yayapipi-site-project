@@ -14,8 +14,12 @@ TocOpen: false
 hidemeta: false
 disableShare: true
 valuetype: "game"
+meta:
+    show_summary: true
+    show_meta: true
+    summary: ""
 cover:
-    image: "https://yayapipi.com/wp-content/uploads/2018/08/header.jpg"
+    image: "header.jpg"
     alt: "<alt text>"
     caption: "<text>"
     relative: false
