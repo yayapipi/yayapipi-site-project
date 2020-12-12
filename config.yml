@@ -1,6 +1,6 @@
 baseURL: "https://yayapipi.github.io/"
-title: Yayapipi Studio
-paginate: 5
+title: Yayapipi Site
+paginate: 9
 theme: hugo-PaperMod
 
 enableRobotsTXT: true
@@ -37,15 +37,15 @@ params:
     disableSpecial1stPost: false
 
     assets:
-        favicon: "<link / abs url>"
-        favicon16x16: "<link / abs url>"
-        favicon32x32: "<link / abs url>"
-        apple_touch_icon: "<link / abs url>"
-        safari_pinned_tab: "<link / abs url>"
+        favicon: "favicon.png"
+        favicon16x16: "favicon16.png"
+        favicon32x32: "favicon32.png"
+        apple_touch_icon: "favicon.png"
+        safari_pinned_tab: "favicon.png"
 
     label:
         text: "Yayapipi Site"
-        #icon: /apple-touch-icon.png
+        #icon: logo.png
         iconHeight: 35
 
     # profile-mode
@@ -56,7 +56,7 @@ params:
         imageTitle: Yayapipi Logo
         buttons:
             - name: 作品
-              url: projects
+              url: products
             - name: 日志
               url: posts
            # - name: 標簽
@@ -64,7 +64,7 @@ params:
 
     # home-info mode
     homeInfoParams:
-        Title: "Yayapipi Studio \U0001F44B"
+        Title: "Yayapipi Site \U0001F44B"
         Content: Welcome
 
     socialIcons:
@@ -78,3 +78,7 @@ params:
     analytics:
         google:
             SiteVerificationTag: "XYZabc"
+markup:
+  goldmark:
+    renderer:
+      unsafe: false

@@ -27,18 +27,19 @@
   }
 }
 </style>
+
 <div id='stars'></div>
 <div class="profile">
     {{- with .Site.Params.profileMode }}
     <div class="profile_inner">
-        {{- if .imageUrl}}<img src="{{ .imageUrl}}" alt="{{ .imageTitle | default "profile image" }}"
-            height="{{- .imageHeight | default 150 -}}" width="{{- .imageWidth | default 150 -}}" />{{- end}}
-        <h1>{{- .title | default $.Site.Title | markdownify -}}</h1>
+        {{- if .imageUrl}}<a class="mylink" href="#" onmouseover="mouseOver()" onmouseout="mouseOut()" onmousedown="mouseDown()"><img  class="mylogo animate__animated" src="{{ .imageUrl}}" alt="{{ .imageTitle | default "profile image" }}"
+            height="{{- .imageHeight | default 150 -}}" width="{{- .imageWidth | default 150 -}}" /></a>{{- end}}
+        <h1 class="animate__animated animate__fadeInUp">{{- .title | default $.Site.Title | markdownify -}}</h1>
         <span>{{- .subtitle | markdownify -}}</span>
         {{- partial "social_icons.html" $.Site.Params.socialIcons -}}
 
         {{- with .buttons }}
-        <div class="buttons">
+        <div class="buttons animate__animated animate__fadeInUp animate__delay-1s">
             {{- range . -}}
             <a class="button" href="{{ .url }}" rel="noopener" title="{{ .name | humanize }}">
                 <span class="button-inner">{{ .name }}</span>
@@ -49,3 +50,38 @@
     </div>
     {{- end}}
 </div>
+
+<script type="text/javascript">
+
+
+  function mouseOver()
+{
+const element = document.querySelector('.mylogo');
+//element.classList.add('animate__flip');
+
+element.src = "logo_selected.png"
+}
+
+function mouseOut()
+{
+const element = document.querySelector('.mylogo');
+//element.classList.remove('animate__flip');
+element.src = "logo.png"
+}
+
+
+function mouseDown()
+{
+const element = document.querySelector('.mylogo');
+element.classList.add('animate__flip');
+}
+
+const element = document.querySelector('.mylogo');
+element.addEventListener('animationend', function(e){
+  window.location.href = "about";
+});
+
+
+
+  
+</script>

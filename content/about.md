@@ -1,10 +1,9 @@
 ---
-title: "A"
-date: 2020-12-09T23:16:19+08:00
+title: "About"
+date: 2020-12-12T15:54:23+08:00
 draft: false
 weight: 1
-# aliases: ["/link"] # 頁面跳轉
-tags: ["untags"]
+aliases: ["/about"] # 頁面跳轉
 author: "Yayapipi"
 #文章類型  [game, app, web, story, art, unknown, tech, develop, share, review]
 valuetype: "none" 
@@ -15,6 +14,7 @@ hidemeta: false
 disableShare: true
 meta:
     show_summary: true
+    show_cover: true
     show_meta: true
     summary: ""
 cover:
@@ -24,3 +24,6 @@ cover:
     relative: false
 comments: false
 ---
+I am Yayapipi :D
+---
+<p>Test</p>

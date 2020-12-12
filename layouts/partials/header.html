@@ -57,7 +57,7 @@
                 {{- end -}}
                 {{- .Site.Params.label.text | default .Site.Title -}}
             </a>
-            <span class="logo-switches">
+            <span class="logo-switches" >
                 {{- if (not .Site.Params.disableThemeToggle) }}
                 <span class="theme-toggle">
                     <a id="theme-toggle" accesskey="t">
@@ -124,3 +124,10 @@
         <!-- Project -->
     </nav>
 </header>
+
+<!--Animate.css-->
+<link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+/>
+

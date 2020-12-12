@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/share/a.md",
+            "file": "posts/HUGO如何在Markdown上使用HTML.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/share/a.md",
+            "file": "posts/HUGO如何在Markdown上使用HTML.md",
             "mode": "preview"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/share/a.md",
+                "file": "posts/HUGO如何在Markdown上使用HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "posts/share/a.md",
+    "posts/HUGO如何在Markdown上使用HTML.md",
+    "HUGO如何在Markdown上使用HTML.md",
     "posts/share/TerminalPreview.md",
-    "posts/review/師.md",
+    "posts/share/a.md",
     "projects/games/pixel to the west.md",
+    "about.md",
     "projects/games/哆啦A夢七小子之夢境大英雄.md",
-    "projects/games/pulut adventure.md",
     "posts/Hugo一鍵發佈Bat.md",
-    "projects/storys/那天夜裡,我把自己吃掉了.md",
-    "projects/storys/布丁.md",
-    "posts/python worm.md"
+    "posts/review/師.md",
+    "projects/games/pulut adventure.md"
   ]
 }

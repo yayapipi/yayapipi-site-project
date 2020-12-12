@@ -15,6 +15,7 @@ hidemeta: true
 disableShare: true
 meta:
     show_summary: true
+    show_cover: true
     show_meta: true
     summary: ""
 cover:
