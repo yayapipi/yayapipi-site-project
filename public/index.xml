@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yayapipi Site</title>
+    <link>https://yayapipi.github.io/</link>
+    <description>Recent content on Yayapipi Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 16 Dec 2020 11:10:06 +0800</lastBuildDate><atom:link href="https://yayapipi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo加上不間斷的背景音樂</title>
+      <link>https://yayapipi.github.io/posts/hugo%E5%8A%A0%E4%B8%8A%E4%B8%8D%E9%96%93%E6%96%B7%E7%9A%84%E8%83%8C%E6%99%AF%E9%9F%B3%E6%A8%82/</link>
+      <pubDate>Wed, 16 Dec 2020 11:10:06 +0800</pubDate>
+      
+      <guid>https://yayapipi.github.io/posts/hugo%E5%8A%A0%E4%B8%8A%E4%B8%8D%E9%96%93%E6%96%B7%E7%9A%84%E8%83%8C%E6%99%AF%E9%9F%B3%E6%A8%82/</guid>
+      <description>Hugo 加上不間斷的背景音樂插件 想法： 點擊按鈕啓動之後，插入Iframe頁面，讓網頁跳轉的時候音樂也不會停止播放。
+ 首先在Themes/layout中新增music.html的頁面  {{- define &amp;#34;main&amp;#34; }} &amp;lt;style type=&amp;#34;text/css&amp;#34;&amp;gt; #mainFrame { position: fixed; background: #000; border: none; top: 0; right: 0; bottom: 0; left: 0; width: 100%; height: 100%; } #mainClose { position: fixed; background: #000; border: none; top: 2; right: 0; bottom: 0; left: 0; width: 10%; height: 3%; } &amp;lt;/style&amp;gt; &amp;lt;iframe src=&amp;#34;{{.Site.BaseURL}}&amp;#34; id=&amp;#34;mainFrame&amp;#34;&amp;gt;&amp;lt;/iframe&amp;gt; &amp;lt;iframe src=&amp;#34;{{.Site.BaseURL}}sunnyroad.mp3&amp;#34; allow=&amp;#34;autoplay&amp;#34; id=&amp;#34;mainMusic&amp;#34;&amp;gt;&amp;lt;/iframe&amp;gt; &amp;lt;a href=&amp;#34;{{.Site.BaseURL}}&amp;#34; id=&amp;#34;mainClose&amp;#34;&amp;gt;Close Music&amp;lt;/a&amp;gt; {{- end }} {{/* end main */}} 在content裏新增一個music.</description>
+    </item>
+    
+    <item>
+      <title>HUGO如何在Markdown上使用HTML</title>
+      <link>https://yayapipi.github.io/posts/hugo%E5%A6%82%E4%BD%95%E5%9C%A8markdown%E4%B8%8A%E4%BD%BF%E7%94%A8html/</link>
+      <pubDate>Sat, 12 Dec 2020 16:58:46 +0800</pubDate>
+      
+      <guid>https://yayapipi.github.io/posts/hugo%E5%A6%82%E4%BD%95%E5%9C%A8markdown%E4%B8%8A%E4%BD%BF%E7%94%A8html/</guid>
+      <description>HUGO如何在Markdown上使用HTML 很神奇的Hugo無法直接渲染Markdown上的HTML代碼，當我們需要修改字體顔色，增加一些功能美化我們的文章的時候，可以使用以下方法在Markdown上面使用HTML代碼：
+方法1： 修改Config檔案,告訴Hugo把HTML的代碼渲染出來。 在Config檔案下新增下列參數。
+config.yaml:
+markup: goldmark: renderer: unsafe: true config.toml:
+[markup] [markup.goldmark] [markup.goldmark.renderer] unsafe = true config.json:
+{ &amp;#34;markup&amp;#34;: { &amp;#34;goldmark&amp;#34;: { &amp;#34;renderer&amp;#34;: { &amp;#34;unsafe&amp;#34;: true } } } } 方法2： 使用Shortcode
+在layout/shortcode/裏新增新的Shortcode.html文件，這裏取名叫做codehtml.html，在裏面輸入:
+{{.Inner}}然後就可以在Markdown中使用這個Shorcode了：
+{{&amp;lt; codehtml &amp;gt;}} &amp;lt;p style=&amp;#39;color:red;&amp;#39;&amp;gt; 我要使用&amp;lt;i&amp;gt;HTML&amp;lt;/i&amp;gt;！ &amp;lt;/p&amp;gt; {{&amp;lt; /codehtml &amp;gt;}} 顯示效果： 我要使用HTML！</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://yayapipi.github.io/about/</link>
+      <pubDate>Sat, 12 Dec 2020 15:54:23 +0800</pubDate>
+      
+      <guid>https://yayapipi.github.io/about/</guid>
+      <description>about page</description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>https://yayapipi.github.io/music/</link>
+      <pubDate>Sat, 12 Dec 2020 15:54:23 +0800</pubDate>
+      
+      <guid>https://yayapipi.github.io/music/</guid>
+      <description>music page</description>
+    </item>
+    
+    <item>
+      <title>Bundle</title>
+      <link>https://yayapipi.github.io/bundle/</link>
+      <pubDate>Wed, 09 Dec 2020 23:18:22 +0800</pubDate>
+      
+      <guid>https://yayapipi.github.io/bundle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New</title>
+      <link>https://yayapipi.github.io/new/</link>
+      <pubDate>Wed, 09 Dec 2020 23:17:56 +0800</pubDate>
+      
+      <guid>https://yayapipi.github.io/new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>哆啦A夢七小子之夢境大英雄</title>
+      <link>https://yayapipi.github.io/products/games/%E5%93%86%E5%95%A6a%E5%A4%A2%E4%B8%83%E5%B0%8F%E5%AD%90%E4%B9%8B%E5%A4%A2%E5%A2%83%E5%A4%A7%E8%8B%B1%E9%9B%84/</link>
+      <pubDate>Wed, 09 Dec 2020 21:25:23 +0800</pubDate>
+      
+      <guid>https://yayapipi.github.io/products/games/%E5%93%86%E5%95%A6a%E5%A4%A2%E4%B8%83%E5%B0%8F%E5%AD%90%E4%B9%8B%E5%A4%A2%E5%A2%83%E5%A4%A7%E8%8B%B1%E9%9B%84/</guid>
+      <description>簡介 剧情讲述着马它哆啦在梦境中到了一个神秘的村庄 那个神秘的村庄被巫婆给占领了，于是马它哆啦决定帮助居民 使用无敌的百宝道具来消灭女巫。 马它哆啦是否能够消灭女巫呢？ 快拿起口气炮，石头帽，避敌斗篷，一起喝马它哆啦冒险吧！
+備注 这是我中學時第一次完成的游戏，使用工具是RPG Maker VX。
+游戏玩法： 简易的操作方法 上下左右行走 技能快捷键打开esc，选择你要的技能然后按123选择快捷键，物品是按456 普通技能只能远距离攻击，近距离无效
+游戏截图： 下载地址： http://pan.baidu.com/share/link?shareid=131341&amp;amp;uk=1090599550</description>
+    </item>
+    
+    <item>
+      <title>那天夜裡,我把自己吃掉了</title>
+      <link>https://yayapipi.github.io/products/storys/%E9%82%A3%E5%A4%A9%E5%A4%9C%E8%A3%A1%E6%88%91%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%90%83%E6%8E%89%E4%BA%86/</link>
+      <pubDate>Sun, 06 Dec 2020 14:19:58 +0800</pubDate>
+      
+      <guid>https://yayapipi.github.io/products/storys/%E9%82%A3%E5%A4%A9%E5%A4%9C%E8%A3%A1%E6%88%91%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%90%83%E6%8E%89%E4%BA%86/</guid>
+      <description>那天夜裡，我好餓，於是我把自己吃掉了。
+剛開始的時候我是從腳開始吃的，因為那樣看起來比較合理好吃，而且手還需要留著到後面剖開別的地方用。 腳的味道還不錯，有點鹹鹹的，但是嚼勁很好，吃起來很軟嫩，尤其是大腿內側那裡，簡直是讓人無法自拔。
+然後我開始吃肚子和裡面的器官，這裡有種吃大閘會的感覺，各種東西都湊在一塊，胃酸雖然名字叫胃酸，吃起來卻蠻辣的，配著心臟吃感覺上像是吃咖喱，大腸的話有點臭味，必須洗乾淨再吃，肺部的話可以壓扁再吃，不然裡面都是空氣。
+然後吃頭部，先把嘴巴留到最後吃，把眼睛和鼻子和耳朵先切出來吃一吃，味道&amp;hellip;挺淡的&amp;hellip;然後開始吃大腦，淋上血淋淋的血後再吃，味道好極了，而且聽說吃大腦會變聰明！ 吃完之後把雙手也卷一卷吃下去，吃起來像蛋餅，最後再把嘴巴舌頭和牙齒都吃一吃！
+吃飽了</description>
+    </item>
+    
+    <item>
+      <title>Hugo一鍵發佈Bat</title>
+      <link>https://yayapipi.github.io/posts/hugo%E4%B8%80%E9%8D%B5%E7%99%BC%E4%BD%88bat/</link>
+      <pubDate>Sun, 06 Dec 2020 00:02:58 +0800</pubDate>
+      
+      <guid>https://yayapipi.github.io/posts/hugo%E4%B8%80%E9%8D%B5%E7%99%BC%E4%BD%88bat/</guid>
+      <description>快速生成新文章：
+@echo off set /p id=&amp;#34;Enter Article Name: &amp;#34; hugo new %id% echo %id% is created pause 一鍵部署發佈：
+@echo off set /p commit=&amp;#34;Enter Commit Value: &amp;#34; hugo cd public git add . git commit -m &amp;#34;%commit%&amp;#34; git push -u origin master echo Commit Pushed pause 一鍵發佈Root Project:
+@echo off git status set /p commit=&amp;#34;Enter Commit Value: &amp;#34; git add . git rm --cached public -f git commit -m &amp;#34;%commit%&amp;#34; git push -u origin master echo Commit Pushed pause </description>
+    </item>
+    
+    <item>
+      <title>Pulut Adventure</title>
+      <link>https://yayapipi.github.io/products/games/pulut-adventure/</link>
+      <pubDate>Sat, 05 Dec 2020 20:41:32 +0800</pubDate>
+      
+      <guid>https://yayapipi.github.io/products/games/pulut-adventure/</guid>
+      <description>Introduction: Pulut Adventure 是一款很好玩的游戲</description>
+    </item>
+    
+    <item>
+      <title>Pixel To The West</title>
+      <link>https://yayapipi.github.io/products/games/pixel-to-the-west/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://yayapipi.github.io/products/games/pixel-to-the-west/</guid>
+      <description>Pixel To The West 是一款十分好玩的3D像素冒险游戏,剧情讲述的是孙悟空师徒在取经的路上忽然遇上了时空错乱,从2D的游戏世界闯进了3D的世界里去了,师父被莫名的妖怪捉走了，孙悟空的法力也被散落在世界的各地，在找回失去的法力的同时，孙悟空发现了这一次的时空错乱是一场计划已久的阴谋…
+游戏特色：   探索世界你可以在游戏里探索不同的世界，并寻找魔法和宝藏
+  七十二变
+打败怪兽后，你可以吸取它的灵魂并变身
+  召唤系统
+打败怪兽后，你可以召唤它出来并肩作战
+  飞行系统
+召唤筋斗云，飞翔浩瀚星空！
+  挑战Boss系统
+挑战各种强力的Boss，打败他们后再吸取他们的灵魂
+  精彩的故事剧情
+精彩丰富的故事剧情，让整趟旅程惊险悬疑
+  魔法射击
+搜集不同的魔法，并且发射他们对付强力怪兽
+  特殊魔法
+游戏遍布了各种特殊的魔法功能，每个都用不同的效果
+  游戏視頻：   游戏截圖： </description>
+    </item>
+    
+    <item>
+      <title>發佈記錄</title>
+      <link>https://yayapipi.github.io/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yayapipi.github.io/archives/</guid>
+      <description>archives</description>
+    </item>
+    
+  </channel>
+</rss>
