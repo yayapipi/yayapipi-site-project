@@ -1,8 +1,8 @@
 ---
-title: "About"
-layout: "about"
-url: "/about/"
-summary: about page
+title: "Music"
+layout: "music"
+url: "/music/"
+summary: music page
 date: 2020-12-12T15:54:23+08:00
 draft: false
 weight: 1
@@ -27,21 +27,3 @@ cover:
     relative: false
 comments: false
 ---
-
-
-## 自我介紹：
-	1.研究領域
-	2.成長背景
-	3.人生目標
-
-## 專業技能：
-{{< codehtml>}}
-技能樹
-{{</ codehtml>}}
-
-## 學歷職位：
-1.大學
-2.研究所
-3.社團職位
-
-## 業餘興趣：

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/HUGO如何在Markdown上使用HTML.md",
+            "file": "posts/Hugo加上不間斷的背景音樂.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/HUGO如何在Markdown上使用HTML.md",
+            "file": "posts/Hugo加上不間斷的背景音樂.md",
             "mode": "preview"
           }
         },
@@ -66,7 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 306
   },
   "right": {
     "id": "c4a11b1a65734407",
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/HUGO如何在Markdown上使用HTML.md",
+                "file": "posts/Hugo加上不間斷的背景音樂.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "posts/Hugo加上不間斷的背景音樂.md",
     "posts/HUGO如何在Markdown上使用HTML.md",
+    "about.md",
+    "archives.md",
+    "products/games/pixel to the west.md",
     "HUGO如何在Markdown上使用HTML.md",
     "posts/share/TerminalPreview.md",
     "posts/share/a.md",
     "projects/games/pixel to the west.md",
-    "about.md",
-    "projects/games/哆啦A夢七小子之夢境大英雄.md",
-    "posts/Hugo一鍵發佈Bat.md",
-    "posts/review/師.md",
-    "projects/games/pulut adventure.md"
+    "projects/games/哆啦A夢七小子之夢境大英雄.md"
   ]
 }
