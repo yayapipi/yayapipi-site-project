@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/Hugo加上不間斷的背景音樂.md",
+            "file": "products/games/pixel to the west.md",
             "mode": "source"
           }
         },
@@ -22,8 +22,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/Hugo加上不間斷的背景音樂.md",
-            "mode": "preview"
+            "file": "products/games/pixel to the west.md",
+            "mode": "source"
           }
         },
         "group": "9255556bf92370d5"
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Hugo加上不間斷的背景音樂.md",
+                "file": "products/games/pixel to the west.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "products/games/pixel to the west.md",
+    "products/games/哆啦A夢七小子之夢境大英雄.md",
+    "bundle.md",
+    "buding.jpg",
+    "Pasted image 20201205212346.png",
     "posts/Hugo加上不間斷的背景音樂.md",
     "posts/HUGO如何在Markdown上使用HTML.md",
     "about.md",
     "archives.md",
-    "products/games/pixel to the west.md",
-    "HUGO如何在Markdown上使用HTML.md",
-    "posts/share/TerminalPreview.md",
-    "posts/share/a.md",
-    "projects/games/pixel to the west.md",
-    "projects/games/哆啦A夢七小子之夢境大英雄.md"
+    "HUGO如何在Markdown上使用HTML.md"
   ]
 }
