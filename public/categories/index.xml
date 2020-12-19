@@ -7,11 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 06 Dec 2020 14:19:58 +0800</lastBuildDate><atom:link href="https://yayapipi.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>uncategorized</title>
-      <link>https://yayapipi.github.io/categories/uncategorized/</link>
+      <title>art</title>
+      <link>https://yayapipi.github.io/categories/art/</link>
       <pubDate>Sun, 06 Dec 2020 14:19:58 +0800</pubDate>
       
-      <guid>https://yayapipi.github.io/categories/uncategorized/</guid>
+      <guid>https://yayapipi.github.io/categories/art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>story</title>
+      <link>https://yayapipi.github.io/categories/story/</link>
+      <pubDate>Sun, 06 Dec 2020 14:19:58 +0800</pubDate>
+      
+      <guid>https://yayapipi.github.io/categories/story/</guid>
       <description></description>
     </item>
     
@@ -27,9 +36,27 @@
     <item>
       <title>games</title>
       <link>https://yayapipi.github.io/categories/games/</link>
-      <pubDate>Sat, 05 Dec 2020 20:41:32 +0800</pubDate>
+      <pubDate>Thu, 09 Jul 2020 11:30:03 +0000</pubDate>
       
       <guid>https://yayapipi.github.io/categories/games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web</title>
+      <link>https://yayapipi.github.io/categories/web/</link>
+      <pubDate>Thu, 09 Jul 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://yayapipi.github.io/categories/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>program</title>
+      <link>https://yayapipi.github.io/categories/program/</link>
+      <pubDate>Tue, 09 Jul 2019 11:30:03 +0000</pubDate>
+      
+      <guid>https://yayapipi.github.io/categories/program/</guid>
       <description></description>
     </item>
     

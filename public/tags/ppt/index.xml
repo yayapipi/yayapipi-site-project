@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ppt on Yayapipi Site</title>
+    <link>https://yayapipi.github.io/tags/ppt/</link>
+    <description>Recent content in ppt on Yayapipi Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 09 Jul 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://yayapipi.github.io/tags/ppt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sci Sheep</title>
+      <link>https://yayapipi.github.io/products/games/sci-sheep/</link>
+      <pubDate>Thu, 09 Jul 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://yayapipi.github.io/products/games/sci-sheep/</guid>
+      <description>游戏介紹： Sci-sheep 是一款使用Microsoft Office Powerpoint 365 做出來的彈幕射擊小游戲雛形，除了一般的PPT動畫功能之外，還額外寫了VBA的Script來控制變數和使用鼠標抓取綿羊位置，點擊的效果，不過礙於PPT的限制，不同版本的PPT可以沒辦法使用VBA的效果，建議使用PPT 365來玩這款游戲。
+  #slide-window { position: relative; width: 500px; height: 300px; overflow: hidden; top: 0px; left: 0px; } #slides-list { width: 500px; height: 300px; position: absolute; margin: 0px; padding: 0px; -webkit-transform: translate3d(0px, 0px, 0px); transform: translate3d(0px, 0px, 0px); transition: all 0.66s ease; -webkit-transition: all 0.66s ease; } .slide { list-style: none; position: relative; float: left; margin: 0; padding: 0; width: 500px; height: 300px; background: #ccc; text-align: center; line-height: 100%; background-size: cover; background-position: 50% 50%; color: #fff; -webkit-transform: translate3d(0px, 0px, 0px); -webkit-transform-style: preserve-3d; } .</description>
+    </item>
+    
+  </channel>
+</rss>

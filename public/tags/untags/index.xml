@@ -34,49 +34,6 @@ markup: goldmark: renderer: unsafe: true config.toml:
     </item>
     
     <item>
-      <title>Bundle</title>
-      <link>https://yayapipi.github.io/bundle/</link>
-      <pubDate>Wed, 09 Dec 2020 23:18:22 +0800</pubDate>
-      
-      <guid>https://yayapipi.github.io/bundle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>New</title>
-      <link>https://yayapipi.github.io/new/</link>
-      <pubDate>Wed, 09 Dec 2020 23:17:56 +0800</pubDate>
-      
-      <guid>https://yayapipi.github.io/new/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>哆啦A夢七小子之夢境大英雄</title>
-      <link>https://yayapipi.github.io/products/games/%E5%93%86%E5%95%A6a%E5%A4%A2%E4%B8%83%E5%B0%8F%E5%AD%90%E4%B9%8B%E5%A4%A2%E5%A2%83%E5%A4%A7%E8%8B%B1%E9%9B%84/</link>
-      <pubDate>Wed, 09 Dec 2020 21:25:23 +0800</pubDate>
-      
-      <guid>https://yayapipi.github.io/products/games/%E5%93%86%E5%95%A6a%E5%A4%A2%E4%B8%83%E5%B0%8F%E5%AD%90%E4%B9%8B%E5%A4%A2%E5%A2%83%E5%A4%A7%E8%8B%B1%E9%9B%84/</guid>
-      <description>簡介 剧情讲述着马它哆啦在梦境中到了一个神秘的村庄 那个神秘的村庄被巫婆给占领了，于是马它哆啦决定帮助居民 使用无敌的百宝道具来消灭女巫。 马它哆啦是否能够消灭女巫呢？ 快拿起口气炮，石头帽，避敌斗篷，一起喝马它哆啦冒险吧！
-備注 这是我中學時第一次完成的游戏，使用工具是RPG Maker VX。
-游戏玩法： 简易的操作方法 上下左右行走 技能快捷键打开esc，选择你要的技能然后按123选择快捷键，物品是按456 普通技能只能远距离攻击，近距离无效
-游戏截图： 下载地址： http://pan.baidu.com/share/link?shareid=131341&amp;amp;uk=1090599550</description>
-    </item>
-    
-    <item>
-      <title>那天夜裡,我把自己吃掉了</title>
-      <link>https://yayapipi.github.io/products/storys/%E9%82%A3%E5%A4%A9%E5%A4%9C%E8%A3%A1%E6%88%91%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%90%83%E6%8E%89%E4%BA%86/</link>
-      <pubDate>Sun, 06 Dec 2020 14:19:58 +0800</pubDate>
-      
-      <guid>https://yayapipi.github.io/products/storys/%E9%82%A3%E5%A4%A9%E5%A4%9C%E8%A3%A1%E6%88%91%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%90%83%E6%8E%89%E4%BA%86/</guid>
-      <description>那天夜裡，我好餓，於是我把自己吃掉了。
-剛開始的時候我是從腳開始吃的，因為那樣看起來比較合理好吃，而且手還需要留著到後面剖開別的地方用。 腳的味道還不錯，有點鹹鹹的，但是嚼勁很好，吃起來很軟嫩，尤其是大腿內側那裡，簡直是讓人無法自拔。
-然後我開始吃肚子和裡面的器官，這裡有種吃大閘會的感覺，各種東西都湊在一塊，胃酸雖然名字叫胃酸，吃起來卻蠻辣的，配著心臟吃感覺上像是吃咖喱，大腸的話有點臭味，必須洗乾淨再吃，肺部的話可以壓扁再吃，不然裡面都是空氣。
-然後吃頭部，先把嘴巴留到最後吃，把眼睛和鼻子和耳朵先切出來吃一吃，味道&amp;hellip;挺淡的&amp;hellip;然後開始吃大腦，淋上血淋淋的血後再吃，味道好極了，而且聽說吃大腦會變聰明！ 吃完之後把雙手也卷一卷吃下去，吃起來像蛋餅，最後再把嘴巴舌頭和牙齒都吃一吃！
-吃飽了</description>
-    </item>
-    
-    <item>
       <title>Hugo一鍵發佈Bat</title>
       <link>https://yayapipi.github.io/posts/hugo%E4%B8%80%E9%8D%B5%E7%99%BC%E4%BD%88bat/</link>
       <pubDate>Sun, 06 Dec 2020 00:02:58 +0800</pubDate>
@@ -86,15 +43,6 @@ markup: goldmark: renderer: unsafe: true config.toml:
 @echo off set /p id=&amp;#34;Enter Article Name: &amp;#34; hugo new %id% echo %id% is created pause 一鍵部署發佈：
 @echo off set /p commit=&amp;#34;Enter Commit Value: &amp;#34; hugo cd public git add . git commit -m &amp;#34;%commit%&amp;#34; git push -u origin master echo Commit Pushed pause 一鍵發佈Root Project:
 @echo off git status set /p commit=&amp;#34;Enter Commit Value: &amp;#34; git add . git rm --cached public -f git commit -m &amp;#34;%commit%&amp;#34; git push -u origin master echo Commit Pushed pause </description>
-    </item>
-    
-    <item>
-      <title>Pulut Adventure</title>
-      <link>https://yayapipi.github.io/products/games/pulut-adventure/</link>
-      <pubDate>Sat, 05 Dec 2020 20:41:32 +0800</pubDate>
-      
-      <guid>https://yayapipi.github.io/products/games/pulut-adventure/</guid>
-      <description>Introduction: Pulut Adventure 是一款很好玩的游戲</description>
     </item>
     
   </channel>

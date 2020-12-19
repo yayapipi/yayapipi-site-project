@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pulut-adventure on Yayapipi Site</title>
+    <link>https://yayapipi.github.io/tags/pulut-adventure/</link>
+    <description>Recent content in pulut-adventure on Yayapipi Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 09 Jul 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://yayapipi.github.io/tags/pulut-adventure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pulut Adventure RPG</title>
+      <link>https://yayapipi.github.io/products/games/pulut-adventure-rpg/</link>
+      <pubDate>Thu, 09 Jul 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://yayapipi.github.io/products/games/pulut-adventure-rpg/</guid>
+      <description>游戏介紹： Pulut Adventure的RPG番外篇，講述著人类衰亡之后，因而崛起的魔物，在接下来的时间里，魔物开始统领遍布世界，也像人类一样有了魔王制度，过上了一段和平和日子，然而在這段和平的日子中，出現了魔王選拔賽的活動！身爲最弱魔物一族的史萊姆Pulut，能不能脫穎而出，打敗其他魔物，成爲新一代的魔王呢？!
+游戏特點：  精心设计的NPC对话 变化多样的特殊技能 简单有趣的关卡解谜 丰富悬疑的剧情设计 精彩刺激的Boss战斗 收集强大的道具装备  游戏截圖：   #slide-window { position: relative; width: 500px; height: 300px; overflow: hidden; top: 0px; left: 0px; } #slides-list { width: 500px; height: 300px; position: absolute; margin: 0px; padding: 0px; -webkit-transform: translate3d(0px, 0px, 0px); transform: translate3d(0px, 0px, 0px); transition: all 0.66s ease; -webkit-transition: all 0.66s ease; } .slide { list-style: none; position: relative; float: left; margin: 0; padding: 0; width: 500px; height: 300px; background: #ccc; text-align: center; line-height: 100%; background-size: cover; background-position: 50% 50%; color: #fff; -webkit-transform: translate3d(0px, 0px, 0px); -webkit-transform-style: preserve-3d; } .</description>
+    </item>
+    
+    <item>
+      <title>Pulut Adventure</title>
+      <link>https://yayapipi.github.io/products/games/pulut-adventure/</link>
+      <pubDate>Thu, 09 Jul 2015 11:30:03 +0000</pubDate>
+      
+      <guid>https://yayapipi.github.io/products/games/pulut-adventure/</guid>
+      <description>游戏介紹： Pulut Adventure 是一个2D的横版冒险游戏。 超过30个精心设计过的的关卡，各种游戏技能和系统。 游戏也加入了召唤系统和飞行模式来提升游戏的乐趣。 你可以通过打败怪物来解锁各种功能和获得各种特殊的技能和武器来闯关。
+游戏特點：  各种不同的敌人，每个敌人有不同的特点 武器系统，你可以更换各种不同的武器来攻击敌人 技能系统，你可以使用各种技能来攻击敌人 召唤系统，你可以召唤各种不同的怪兽 飞行系统，你可以随时随地的飞行 多达30个精心设计的独特关卡  游戏操作：  WASD控制角色移动 J使用剑攻击 按着SDJ使用剑气 K发射飞镖 按着SDK 使用超级飞镖 F开启飞行模式 L开启召唤系统（开启后WASD选择召唤的怪兽）  游戏截圖：   #slide-window { position: relative; width: 500px; height: 300px; overflow: hidden; top: 0px; left: 0px; } #slides-list { width: 500px; height: 300px; position: absolute; margin: 0px; padding: 0px; -webkit-transform: translate3d(0px, 0px, 0px); transform: translate3d(0px, 0px, 0px); transition: all 0.</description>
+    </item>
+    
+  </channel>
+</rss>
