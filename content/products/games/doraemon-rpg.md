@@ -1,14 +1,13 @@
 ---
 title: "哆啦A夢七小子之夢境大英雄"
-date: 2020-12-09T21:25:23+08:00
+date: 2012-12-09T21:25:23+08:00
 draft: false
 weight: 1
-# aliases: ["/link"] # 頁面跳轉
-tags: ["untags"]
+# aliases: ["/doraemon-rpg"] 
+tags: ["game","rpg","doraemon"]
 author: "Yayapipi"
 #文章類型  [game, app, web, story, art, unknown, tech, develop, share, review]
 valuetype: "game" 
-# author: ["Me", "You"] # multiple authors
 showToc: false
 TocOpen: false
 hidemeta: true
@@ -19,9 +18,9 @@ meta:
     show_meta: true
     summary: ""
 cover:
-    image: "cover_light.png"
-    alt: "<alt text>"
-    caption: "<text>"
+    image: "img/products/games/doraemon_rpg/doraemon.png"
+    alt: "Doraemon RPG Cover"
+    caption: "Doraemon RPG Cover"
     relative: false
 comments: false
 ---
@@ -43,6 +42,8 @@ comments: false
 普通技能只能远距离攻击，近距离无效
 
 ## 游戏截图：
+{{< gallery-slider dir="/img/products/games/doraemon_rpg/screenshot"  >}}
+
 
 ##  下载地址：
 http://pan.baidu.com/share/link?shareid=131341&uk=1090599550

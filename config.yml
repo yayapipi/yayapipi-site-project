@@ -1,6 +1,6 @@
 baseURL: "https://yayapipi.github.io/"
 title: Yayapipi Site
-paginate: 9
+paginate: 100
 theme: hugo-PaperMod
 
 enableRobotsTXT: true

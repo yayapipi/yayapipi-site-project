@@ -3,9 +3,9 @@ title: "那天夜裡,我把自己吃掉了"
 date: 2020-12-06T14:19:58+08:00
 draft: false
 weight: 1
-# aliases: ["/link"] # 頁面跳轉
-tags: ["untags"]
-categories: ["uncategorized"]
+# aliases: ["/eat"] # 頁面跳轉
+tags: ["故事","詭異"]
+categories: ["story"]
 valuetype: "story"
 author: "Yayapipi"
 # author: ["Me", "You"] # multiple authors
@@ -13,9 +13,14 @@ showToc: false
 TocOpen: false
 hidemeta: false
 disableShare: true
+meta:
+    show_summary: true
+    show_meta: true
+    show_cover: true
+    summary: ""
 cover:
-    image: "buding.jpg"
-    alt: "<alt text>"
+    image: "img/products/story/eat.jpg"
+    alt: "那天夜裡,我把自己吃掉了"
     caption: "<text>"
     relative: true
 comments: false
