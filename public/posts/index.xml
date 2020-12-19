@@ -29,8 +29,8 @@ markup: goldmark: renderer: unsafe: true config.toml:
 [markup] [markup.goldmark] [markup.goldmark.renderer] unsafe = true config.json:
 { &amp;#34;markup&amp;#34;: { &amp;#34;goldmark&amp;#34;: { &amp;#34;renderer&amp;#34;: { &amp;#34;unsafe&amp;#34;: true } } } } 方法2： 使用Shortcode
 在layout/shortcode/裏新增新的Shortcode.html文件，這裏取名叫做codehtml.html，在裏面輸入:
-{{.Inner}}然後就可以在Markdown中使用這個Shorcode了：
-{{&amp;lt; codehtml &amp;gt;}} &amp;lt;p style=&amp;#39;color:red;&amp;#39;&amp;gt; 我要使用&amp;lt;i&amp;gt;HTML&amp;lt;/i&amp;gt;！ &amp;lt;/p&amp;gt; {{&amp;lt; /codehtml &amp;gt;}} 顯示效果： 我要使用HTML！</description>
+{{.Inner}} 然後就可以在Markdown中使用這個Shorcode了：
+{{&amp;lt; codehtml &amp;gt;}} &amp;lt;p style=&amp;#39;color:red;&amp;#39;&amp;gt; 我要使用&amp;lt;i&amp;gt;HTML&amp;lt;/i&amp;gt;！ &amp;lt;/p&amp;gt; {{&amp;lt; /codehtml &amp;gt;}} 顯示效果： 我要使用HTML！ </description>
     </item>
     
     <item>
