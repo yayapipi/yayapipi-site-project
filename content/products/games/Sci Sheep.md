@@ -33,7 +33,7 @@ comments: false
 ## 游戏介紹：
 Sci-sheep 是一款使用Microsoft Office Powerpoint 365 做出來的彈幕射擊小游戲雛形，除了一般的PPT動畫功能之外，還額外寫了VBA的Script來控制變數和使用鼠標抓取綿羊位置，點擊的效果，不過礙於PPT的限制，不同版本的PPT可以沒辦法使用VBA的效果，建議使用PPT 365來玩這款游戲。
 
-{{< gallery-slider dir="/img/products/games/sci_sheep/screenshot" >}}
+{{< gallery-slider dir="/img/products/games/sci_sheep/screenshot" width="auto">}}
 
 ## 游戏特點：
 - 可以拖放綿羊

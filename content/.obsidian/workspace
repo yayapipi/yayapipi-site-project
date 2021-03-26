@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "products/unknowns/rapage.md",
+            "file": "products/games/Sci Sheep.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "products/unknowns/rapage.md",
+            "file": "products/games/Sci Sheep.md",
             "mode": "preview"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "products/unknowns/rapage.md",
+                "file": "products/games/Sci Sheep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "products/games/Sci Sheep.md",
     "products/unknowns/rapage.md",
     "products/unknowns/soundegg 1.md",
     "products/unknowns/soundegg.md",
@@ -107,7 +108,6 @@
     "products/programs/Drug VR 1.md",
     "products/programs/vr-shop 1.md",
     "products/programs/vr-shop.md",
-    "products/games/Pulut Adventure RPG.md",
-    "products/webs/CCU House.md"
+    "products/games/Pulut Adventure RPG.md"
   ]
 }

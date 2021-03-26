@@ -57,7 +57,7 @@ params:
         buttons:
             - name: 作品
               url: products
-            - name: 日志
+            - name: 文章
               url: posts
            # - name: 標簽
            #   url: tags
