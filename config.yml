@@ -74,6 +74,10 @@ params:
           url: "https://facebook.com/yayapipistudio"
         - name: github
           url: "https://github.com/yayapipi"
+        - name: youtube
+          url: "https://www.youtube.com/channel/UCO9BJzJvS1w1l4uG-bEFLeQ"
+        - name: podcast
+          url: "https://open.firstory.me/user/yayapipi-story/platforms"
 
     analytics:
         google:

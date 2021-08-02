@@ -3,7 +3,11 @@
 
 <head>
     {{- partial "head.html" . }}
+
+
+
 </head>
+
 
 <body class="
 {{- if (or (ne .Kind `page` ) (eq .Layout `archives`)) -}}
@@ -13,6 +17,9 @@
 {{- print " dark" }}
 {{- end -}}
 " id="top">
+
+<div id="particles-js"></div>
+
     {{- partialCached "header.html" . .Page}}
     <main class="main">
         {{- block "main" . }}
@@ -20,5 +27,8 @@
     </main>
     {{- partialCached "footer.html" . .Type }}
 </body>
+
+<script src="js/particles.min.js"></script>
+<script id="particle-mode" src="js/app1.js"></script> <!-- app2 for start effect-->
 
 </html>
