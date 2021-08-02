@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vr on Yayapipi Site</title>
+    <link>https://yayapipi.github.io/tags/vr/</link>
+    <description>Recent content in vr on Yayapipi Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 09 Jul 2019 11:30:03 +0000</lastBuildDate><atom:link href="https://yayapipi.github.io/tags/vr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drugs VR</title>
+      <link>https://yayapipi.github.io/products/programs/drug-vr/</link>
+      <pubDate>Tue, 09 Jul 2019 11:30:03 +0000</pubDate>
+      
+      <guid>https://yayapipi.github.io/products/programs/drug-vr/</guid>
+      <description>游戏剧情：
+玩家的身份是一名拘毒警察，在某个程式发现了有一群毒贩正在使用机器人贩毒，因此需要深入调查，但是因为机器人的反噬机制，如果回答错误机器人的问题，就会中毒，毒品每次会被随机叠加，当玩家被叠加到无法负荷的时候，就结束游戏，玩家的目的是找出贩毒的机器人并且上缴证据给联邦政府。
+游戏机制：
+超过15种不同的中毒效果画面 抓捕机器人机智问答 结合反毒宣传知识进行宣导 Emotiv脑波侦测
+-目前还在0.1的测试开发状态，并不是最终定案-</description>
+    </item>
+    
+    <item>
+      <title>支援眼球辨識技術之虛擬實境空間規劃模擬系統</title>
+      <link>https://yayapipi.github.io/products/programs/vr-shop/</link>
+      <pubDate>Tue, 09 Jul 2019 11:30:03 +0000</pubDate>
+      
+      <guid>https://yayapipi.github.io/products/programs/vr-shop/</guid>
+      <description>Github: https://github.com/yayapipi/shop-vr</description>
+    </item>
+    
+  </channel>
+</rss>

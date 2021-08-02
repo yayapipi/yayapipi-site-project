@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://yayapipi.github.io/sitemap.xml

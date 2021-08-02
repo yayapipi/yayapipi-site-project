@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jingsi on Yayapipi Site</title>
+    <link>https://yayapipi.github.io/tags/jingsi/</link>
+    <description>Recent content in jingsi on Yayapipi Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 09 Jul 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://yayapipi.github.io/tags/jingsi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>靜思語抽籤</title>
+      <link>https://yayapipi.github.io/products/webs/jingsi/</link>
+      <pubDate>Thu, 09 Jul 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://yayapipi.github.io/products/webs/jingsi/</guid>
+      <description>- 一款在線抽取最適合你的靜思語的網站 - 前言： 大學最終也迎來了最後一個學年，在大學四年裡面經歷了很多事情，悲歡交集，該體驗的都體驗了一番，在去年的時候，懵懂的就接下了慈青社的社長，為接下來的人生又多了很多坑坑洞洞的坎哈哈哈，不過最後一切經歷下來，真的十分的有趣，自己也從中成長了很多。
+經過一年之後，慈青週又再度來襲啦，為了宣傳這次的慈青週，因此特地設計了一個在線靜思語抽籤的網站，想說讓大家可以在現今繁忙的社會中可以靜下心來，是不是抽取一個靜思語，靜靜地思考一下自己最近的生活。
+製作： 這個網站的製作從開始到完成只花了不到3個小時的時間，說起來倒是挺快的，一來是網站的架構功能比較簡單，二來是自己的經驗能力也足夠在短時間內完成這些功能，不過功能上少了很多功能，也有很多小缺陷哈哈！
+網站設計的概念挺簡單的，第一步是收集大量的靜思語，儲存成一個txt的文檔，然後透過PHP後台每次隨機讀取一個靜思語，并顯示在網頁上（本來想說使用Ajax去後台存取，後來發現不用那麼麻煩，直接PHP ECHO即可），網站的排版則是使用之前購買的Mobirise軟件快速製作的哈哈哈。
+衍生功能：   Facebook分享功能
+網站加入了FB分享的功能，這個功能的想法原本是想說設計成每個靜思語產出一個預覽圖可以分享到FB，但是後來發現FB並無法直接預覽網頁的圖片，而是要事前給定一張固定的圖片產生的預覽圖，後來這個功能並沒有完整。實現的思路大概是每次產出的一個靜思語，就自動截圖生成，製作成該頁面的縮圖餵給FB，但是工程量好麻煩，所以暫時這個功能…不做~
+  數據庫讀取功能
+目前是文檔直接讀取，但是每次加載的時候都必須重新讀取一次文檔，導致加載網頁的速度變慢很多，想說未來要不要把資料導入到數據庫裡面去，再透過SQL來讀取。
+   靜思語分享： 人生的價值，貴在為工作而生活；若為生活而工作，是很無奈且容易疲倦的人生。
+入口： https://yayapipi.com/TzuChing/JingsiDraw/</description>
+    </item>
+    
+  </channel>
+</rss>

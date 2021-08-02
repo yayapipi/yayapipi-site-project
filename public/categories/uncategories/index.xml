@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>uncategories on Yayapipi Site</title>
+    <link>https://yayapipi.github.io/categories/uncategories/</link>
+    <description>Recent content in uncategories on Yayapipi Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 06 Dec 2020 00:02:58 +0800</lastBuildDate><atom:link href="https://yayapipi.github.io/categories/uncategories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo一鍵發佈Bat</title>
+      <link>https://yayapipi.github.io/posts/hugo%E4%B8%80%E9%8D%B5%E7%99%BC%E4%BD%88bat/</link>
+      <pubDate>Sun, 06 Dec 2020 00:02:58 +0800</pubDate>
+      
+      <guid>https://yayapipi.github.io/posts/hugo%E4%B8%80%E9%8D%B5%E7%99%BC%E4%BD%88bat/</guid>
+      <description>快速生成新文章：
+@echo off set /p id=&amp;#34;Enter Article Name: &amp;#34; hugo new %id% echo %id% is created pause 一鍵部署發佈：
+@echo off set /p commit=&amp;#34;Enter Commit Value: &amp;#34; hugo cd public git add . git commit -m &amp;#34;%commit%&amp;#34; git push -u origin master echo Commit Pushed pause 一鍵發佈Root Project:
+@echo off git status set /p commit=&amp;#34;Enter Commit Value: &amp;#34; git add . git rm --cached public -f git commit -m &amp;#34;%commit%&amp;#34; git push -u origin master echo Commit Pushed pause </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>clock in on Yayapipi Site</title>
+    <link>https://yayapipi.github.io/tags/clock-in/</link>
+    <description>Recent content in clock in on Yayapipi Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 09 Jul 2018 11:30:03 +0000</lastBuildDate><atom:link href="https://yayapipi.github.io/tags/clock-in/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wocal 打卡系統</title>
+      <link>https://yayapipi.github.io/products/webs/wocal/</link>
+      <pubDate>Mon, 09 Jul 2018 11:30:03 +0000</pubDate>
+      
+      <guid>https://yayapipi.github.io/products/webs/wocal/</guid>
+      <description>介紹： Wocal打卡系统是我在擔任学校的創新創業新创电动车运营团队的技術顧問时候，因为需要一个打卡系统而寫的，这是个用PHP建构的打卡系统，可以扫描一下卡号后自动在后台打卡记录上下班的时间，这个打卡系统只要简单设定一些参数后就可以套用在任何地方上，所以在这里也把源码公布出来让大家使用。
+功能界面：   简洁漂亮的打卡界面   打卡成功后的界面   每个员工状态的界面   时间记录的界面    源码下载： https://github.com/yayapipi/Wocal</description>
+    </item>
+    
+  </channel>
+</rss>
