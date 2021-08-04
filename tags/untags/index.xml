@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>untags on Yayapipi Site</title>
+    <link>https://yayapipi.github.io/tags/untags/</link>
+    <description>Recent content in untags on Yayapipi Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 16 Dec 2020 11:10:06 +0800</lastBuildDate><atom:link href="https://yayapipi.github.io/tags/untags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo加上不間斷的背景音樂</title>
+      <link>https://yayapipi.github.io/posts/hugo%E5%8A%A0%E4%B8%8A%E4%B8%8D%E9%96%93%E6%96%B7%E7%9A%84%E8%83%8C%E6%99%AF%E9%9F%B3%E6%A8%82/</link>
+      <pubDate>Wed, 16 Dec 2020 11:10:06 +0800</pubDate>
+      
+      <guid>https://yayapipi.github.io/posts/hugo%E5%8A%A0%E4%B8%8A%E4%B8%8D%E9%96%93%E6%96%B7%E7%9A%84%E8%83%8C%E6%99%AF%E9%9F%B3%E6%A8%82/</guid>
+      <description>Hugo 加上不間斷的背景音樂插件 想法： 點擊按鈕啓動之後，插入Iframe頁面，讓網頁跳轉的時候音樂也不會停止播放。
+ 首先在Themes/layout中新增music.html的頁面  {{- define &amp;#34;main&amp;#34; }} &amp;lt;style type=&amp;#34;text/css&amp;#34;&amp;gt; #mainFrame { position: fixed; background: #000; border: none; top: 0; right: 0; bottom: 0; left: 0; width: 100%; height: 100%; } #mainClose { position: fixed; background: #000; border: none; top: 2; right: 0; bottom: 0; left: 0; width: 10%; height: 3%; } &amp;lt;/style&amp;gt; &amp;lt;iframe src=&amp;#34;{{.Site.BaseURL}}&amp;#34; id=&amp;#34;mainFrame&amp;#34;&amp;gt;&amp;lt;/iframe&amp;gt; &amp;lt;iframe src=&amp;#34;{{.Site.BaseURL}}sunnyroad.mp3&amp;#34; allow=&amp;#34;autoplay&amp;#34; id=&amp;#34;mainMusic&amp;#34;&amp;gt;&amp;lt;/iframe&amp;gt; &amp;lt;a href=&amp;#34;{{.Site.BaseURL}}&amp;#34; id=&amp;#34;mainClose&amp;#34;&amp;gt;Close Music&amp;lt;/a&amp;gt; {{- end }} {{/* end main */}} 在content裏新增一個music.</description>
+    </item>
+    
+    <item>
+      <title>HUGO如何在Markdown上使用HTML</title>
+      <link>https://yayapipi.github.io/posts/hugo%E5%A6%82%E4%BD%95%E5%9C%A8markdown%E4%B8%8A%E4%BD%BF%E7%94%A8html/</link>
+      <pubDate>Sat, 12 Dec 2020 16:58:46 +0800</pubDate>
+      
+      <guid>https://yayapipi.github.io/posts/hugo%E5%A6%82%E4%BD%95%E5%9C%A8markdown%E4%B8%8A%E4%BD%BF%E7%94%A8html/</guid>
+      <description>HUGO如何在Markdown上使用HTML 很神奇的Hugo無法直接渲染Markdown上的HTML代碼，當我們需要修改字體顔色，增加一些功能美化我們的文章的時候，可以使用以下方法在Markdown上面使用HTML代碼：
+方法1： 修改Config檔案,告訴Hugo把HTML的代碼渲染出來。 在Config檔案下新增下列參數。
+config.yaml:
+markup: goldmark: renderer: unsafe: true config.toml:
+[markup] [markup.goldmark] [markup.goldmark.renderer] unsafe = true config.json:
+{ &amp;#34;markup&amp;#34;: { &amp;#34;goldmark&amp;#34;: { &amp;#34;renderer&amp;#34;: { &amp;#34;unsafe&amp;#34;: true } } } } 方法2： 使用Shortcode
+在layout/shortcode/裏新增新的Shortcode.html文件，這裏取名叫做codehtml.html，在裏面輸入:
+{{.Inner}} 然後就可以在Markdown中使用這個Shorcode了：
+{{&amp;lt; codehtml &amp;gt;}} &amp;lt;p style=&amp;#39;color:red;&amp;#39;&amp;gt; 我要使用&amp;lt;i&amp;gt;HTML&amp;lt;/i&amp;gt;！ &amp;lt;/p&amp;gt; {{&amp;lt; /codehtml &amp;gt;}} 顯示效果： 我要使用HTML！ </description>
+    </item>
+    
+    <item>
+      <title>Hugo一鍵發佈Bat</title>
+      <link>https://yayapipi.github.io/posts/hugo%E4%B8%80%E9%8D%B5%E7%99%BC%E4%BD%88bat/</link>
+      <pubDate>Sun, 06 Dec 2020 00:02:58 +0800</pubDate>
+      
+      <guid>https://yayapipi.github.io/posts/hugo%E4%B8%80%E9%8D%B5%E7%99%BC%E4%BD%88bat/</guid>
+      <description>快速生成新文章：
+@echo off set /p id=&amp;#34;Enter Article Name: &amp;#34; hugo new %id% echo %id% is created pause 一鍵部署發佈：
+@echo off set /p commit=&amp;#34;Enter Commit Value: &amp;#34; hugo cd public git add . git commit -m &amp;#34;%commit%&amp;#34; git push -u origin master echo Commit Pushed pause 一鍵發佈Root Project:
+@echo off git status set /p commit=&amp;#34;Enter Commit Value: &amp;#34; git add . git rm --cached public -f git commit -m &amp;#34;%commit%&amp;#34; git push -u origin master echo Commit Pushed pause </description>
+    </item>
+    
+  </channel>
+</rss>

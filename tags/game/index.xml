@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>game on Yayapipi Site</title>
+    <link>https://yayapipi.github.io/tags/game/</link>
+    <description>Recent content in game on Yayapipi Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 09 Jul 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://yayapipi.github.io/tags/game/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pulut Adventure RPG</title>
+      <link>https://yayapipi.github.io/products/games/pulut-adventure-rpg/</link>
+      <pubDate>Thu, 09 Jul 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://yayapipi.github.io/products/games/pulut-adventure-rpg/</guid>
+      <description>游戏介紹： Pulut Adventure的RPG番外篇，講述著人类衰亡之后，因而崛起的魔物，在接下来的时间里，魔物开始统领遍布世界，也像人类一样有了魔王制度，过上了一段和平和日子，然而在這段和平的日子中，出現了魔王選拔賽的活動！身爲最弱魔物一族的史萊姆Pulut，能不能脫穎而出，打敗其他魔物，成爲新一代的魔王呢？!
+游戏特點：  精心设计的NPC对话 变化多样的特殊技能 简单有趣的关卡解谜 丰富悬疑的剧情设计 精彩刺激的Boss战斗 收集强大的道具装备  游戏截圖：   #slide-window { position: relative; width: 500px; height: 300px; overflow: hidden; top: 0px; left: 0px; } #slides-list { width: 500px; height: 300px; position: absolute; margin: 0px; padding: 0px; -webkit-transform: translate3d(0px, 0px, 0px); transform: translate3d(0px, 0px, 0px); transition: all 0.66s ease; -webkit-transition: all 0.66s ease; } .slide { list-style: none; position: relative; float: left; margin: 0; padding: 0; width: 500px; height: 300px; background: #ccc; text-align: center; line-height: 100%; background-size: cover; background-position: 50% 50%; color: #fff; -webkit-transform: translate3d(0px, 0px, 0px); -webkit-transform-style: preserve-3d; } .</description>
+    </item>
+    
+    <item>
+      <title>Sci Sheep</title>
+      <link>https://yayapipi.github.io/products/games/sci-sheep/</link>
+      <pubDate>Thu, 09 Jul 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://yayapipi.github.io/products/games/sci-sheep/</guid>
+      <description>游戏介紹： Sci-sheep 是一款使用Microsoft Office Powerpoint 365 做出來的彈幕射擊小游戲雛形，除了一般的PPT動畫功能之外，還額外寫了VBA的Script來控制變數和使用鼠標抓取綿羊位置，點擊的效果，不過礙於PPT的限制，不同版本的PPT可以沒辦法使用VBA的效果，建議使用PPT 365來玩這款游戲。
+  #slide-window { position: relative; width: auto; height: 300px; overflow: hidden; top: 0px; left: 0px; } #slides-list { width: auto; height: 300px; position: absolute; margin: 0px; padding: 0px; -webkit-transform: translate3d(0px, 0px, 0px); transform: translate3d(0px, 0px, 0px); transition: all 0.66s ease; -webkit-transition: all 0.66s ease; } .slide { list-style: none; position: relative; float: left; margin: 0; padding: 0; width: auto; height: 300px; background: #ccc; text-align: center; line-height: 100%; background-size: cover; background-position: 50% 50%; color: #fff; -webkit-transform: translate3d(0px, 0px, 0px); -webkit-transform-style: preserve-3d; } .</description>
+    </item>
+    
+    <item>
+      <title>Space Dog Escape</title>
+      <link>https://yayapipi.github.io/products/games/space-dog-escape/</link>
+      <pubDate>Mon, 09 Jul 2018 11:30:03 +0000</pubDate>
+      
+      <guid>https://yayapipi.github.io/products/games/space-dog-escape/</guid>
+      <description>游戏介紹： Space Dog Escape是参加LD42制作出来的GameJam游戏，这次的主题是Running Out Of Space，因此，制作这款游戏的想法是逃离空间，因为Space也有宇宙的意思，所以就制作成了要逃离宇宙怪兽的追击之外，再跳脱出现有的空间，藉此不断获得分数。
+心得： 第一次参加Ludem Game Jam，还蛮好玩的哈哈，不过要在这么短的时间内做出一款游戏出来真的蛮挑战的，不过我这款小游戏倒是蛮好做的，看了一下这次参赛的作品，真亏有人可以在这么短的时间内完成吓死人程度的作品，太强了，不过在制作这款游戏的时候我也没有全部时间都投入在制作里，有超过一半的时间都在看戏，还好最后勉强完成了。
+TimeLapse:   游戏頁面： LdJam: https://ldjam.com/events/ludum-dare/42/space-dog-escape
+Github: https://github.com/yayapipi/Space-Dog-Escape
+Game: http://yayapipi.com/Game/SpaceDogEscape/ [應該快失效了]</description>
+    </item>
+    
+    <item>
+      <title>Pixel To The West</title>
+      <link>https://yayapipi.github.io/products/games/pixel-to-the-west/</link>
+      <pubDate>Fri, 15 Sep 2017 11:30:03 +0000</pubDate>
+      
+      <guid>https://yayapipi.github.io/products/games/pixel-to-the-west/</guid>
+      <description>游戏介紹： Pixel To The West 是一款十分好玩的3D像素冒险游戏,剧情讲述的是孙悟空师徒在取经的路上忽然遇上了时空错乱,从2D的游戏世界闯进了3D的世界里去了,师父被莫名的妖怪捉走了，孙悟空的法力也被散落在世界的各地，在找回失去的法力的同时，孙悟空发现了这一次的时空错乱是一场计划已久的阴谋…
+游戏特色：   探索世界
+你可以在游戏里探索不同的世界，并寻找魔法和宝藏
+  七十二变
+打败怪兽后，你可以吸取它的灵魂并变身
+  召唤系统
+打败怪兽后，你可以召唤它出来并肩作战
+  飞行系统
+召唤筋斗云，飞翔浩瀚星空！
+  挑战Boss系统
+挑战各种强力的Boss，打败他们后再吸取他们的灵魂
+  精彩的故事剧情
+精彩丰富的故事剧情，让整趟旅程惊险悬疑
+  魔法射击
+搜集不同的魔法，并且发射他们对付强力怪兽
+  特殊魔法
+游戏遍布了各种特殊的魔法功能，每个都用不同的效果
+  游戏截圖：   #slide-window { position: relative; width: 500px; height: 300px; overflow: hidden; top: 0px; left: 0px; } #slides-list { width: 500px; height: 300px; position: absolute; margin: 0px; padding: 0px; -webkit-transform: translate3d(0px, 0px, 0px); transform: translate3d(0px, 0px, 0px); transition: all 0.</description>
+    </item>
+    
+    <item>
+      <title>Pulut Adventure</title>
+      <link>https://yayapipi.github.io/products/games/pulut-adventure/</link>
+      <pubDate>Thu, 09 Jul 2015 11:30:03 +0000</pubDate>
+      
+      <guid>https://yayapipi.github.io/products/games/pulut-adventure/</guid>
+      <description>游戏介紹： Pulut Adventure 是一个2D的横版冒险游戏。 超过30个精心设计过的的关卡，各种游戏技能和系统。 游戏也加入了召唤系统和飞行模式来提升游戏的乐趣。 你可以通过打败怪物来解锁各种功能和获得各种特殊的技能和武器来闯关。
+游戏特點：  各种不同的敌人，每个敌人有不同的特点 武器系统，你可以更换各种不同的武器来攻击敌人 技能系统，你可以使用各种技能来攻击敌人 召唤系统，你可以召唤各种不同的怪兽 飞行系统，你可以随时随地的飞行 多达30个精心设计的独特关卡  游戏操作：  WASD控制角色移动 J使用剑攻击 按着SDJ使用剑气 K发射飞镖 按着SDK 使用超级飞镖 F开启飞行模式 L开启召唤系统（开启后WASD选择召唤的怪兽）  游戏截圖：   #slide-window { position: relative; width: 500px; height: 300px; overflow: hidden; top: 0px; left: 0px; } #slides-list { width: 500px; height: 300px; position: absolute; margin: 0px; padding: 0px; -webkit-transform: translate3d(0px, 0px, 0px); transform: translate3d(0px, 0px, 0px); transition: all 0.</description>
+    </item>
+    
+    <item>
+      <title>Yapi Dragon</title>
+      <link>https://yayapipi.github.io/products/games/yapi-dragon/</link>
+      <pubDate>Tue, 09 Jul 2013 11:30:03 +0000</pubDate>
+      
+      <guid>https://yayapipi.github.io/products/games/yapi-dragon/</guid>
+      <description>游戏介紹： YapiDragon’s 的朋友被邪惡的組織抓住了，你需要去拯救你的朋友！ 每一隻飛龍都有不同的特殊能力，當你救出他們的時候，就可以變身，使用他們的超能力！ 還可以超進化！有誰不喜歡可以變身和進化的飛龍游戲呢？！
+游戏操作：  Z 跳躍 - 雙擊可以二段跳 - 連擊可以飛 Q 變身成黑龍 W 變身成麒麟 E 變身成飛龍 Space 進行超進化！  游戏備注：  很久以前的產物，需要具備網頁Flash才可以玩
+ 游戏頁面： Y8: https://zh.y8.com/games/yapidragon</description>
+    </item>
+    
+    <item>
+      <title>哆啦A夢七小子之夢境大英雄</title>
+      <link>https://yayapipi.github.io/products/games/doraemon-rpg/</link>
+      <pubDate>Sun, 09 Dec 2012 21:25:23 +0800</pubDate>
+      
+      <guid>https://yayapipi.github.io/products/games/doraemon-rpg/</guid>
+      <description>簡介 剧情讲述着马它哆啦在梦境中到了一个神秘的村庄 那个神秘的村庄被巫婆给占领了，于是马它哆啦决定帮助居民 使用无敌的百宝道具来消灭女巫。 马它哆啦是否能够消灭女巫呢？ 快拿起口气炮，石头帽，避敌斗篷，一起喝马它哆啦冒险吧！
+備注 这是我中學時第一次完成的游戏，使用工具是RPG Maker VX。
+游戏玩法： 简易的操作方法 上下左右行走 技能快捷键打开esc，选择你要的技能然后按123选择快捷键，物品是按456 普通技能只能远距离攻击，近距离无效
+游戏截图：   #slide-window { position: relative; width: 500px; height: 300px; overflow: hidden; top: 0px; left: 0px; } #slides-list { width: 500px; height: 300px; position: absolute; margin: 0px; padding: 0px; -webkit-transform: translate3d(0px, 0px, 0px); transform: translate3d(0px, 0px, 0px); transition: all 0.66s ease; -webkit-transition: all 0.66s ease; } .slide { list-style: none; position: relative; float: left; margin: 0; padding: 0; width: 500px; height: 300px; background: #ccc; text-align: center; line-height: 100%; background-size: cover; background-position: 50% 50%; color: #fff; -webkit-transform: translate3d(0px, 0px, 0px); -webkit-transform-style: preserve-3d; } .</description>
+    </item>
+    
+  </channel>
+</rss>
