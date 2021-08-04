@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "products/arts/Yapi Animal Font.md",
+            "file": "products/unknowns/rapage.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "products/arts/Yapi Animal Font.md",
+            "file": "products/unknowns/rapage.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "products/arts/Yapi Animal Font.md",
+                "file": "products/unknowns/rapage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "fc1e1bfa65f1b070",
   "lastOpenFiles": [
+    "products/unknowns/rapage.md",
+    "about.md",
+    "music.md",
+    "archives.md",
     "products/arts/Yapi Animal Font.md",
     "products/arts/pop-family.md",
     "products/arts/platnet monster.md",
     "products/games/doraemon-rpg.md",
     "products/games/Sci Sheep.md",
-    "products/games/Pulut Adventure RPG.md",
-    "products/games/pulut adventure.md",
-    "products/arts/pop-family 1.md",
-    "Untitled.md",
-    "products/games/pixel to the west.md"
+    "products/games/Pulut Adventure RPG.md"
   ]
 }
